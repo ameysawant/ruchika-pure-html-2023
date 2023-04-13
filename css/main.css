@@ -1,0 +1,19 @@
+@font-face {
+  font-family: barbeque;
+  src: url(/fonts/barbeque/barbeque/Barbeque-PersonalUse.otf);
+}
+@font-face {
+  font-family: gidole;
+  /* src: url(/fonts/louis/louis_george_caf/Louis\ George\ Cafe.ttf); */
+  src: url(/fonts/gidole/gidole/Gidole-Regular.ttf);
+}
+
+body {
+  font-family: gidole;
+  font-size: 1rem;
+  line-height: 1.5;
+}
+h1,
+h2 {
+  font-family: barbeque;
+}
